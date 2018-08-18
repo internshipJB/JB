@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JauntBee</string>
+    <string name="police">Police</string>
+    <string name="sos">S.O.S.</string>
+    <string name="call">Call</string>
+    <string name="default_smart"> Everything looks good</string>
+    <string name="enter_dest">Enter Your Destination</string>
+    <string name="help">help</string>
+    <string name="crash_toast_text">Oops! JauntBee crashed.\nPlease help us fix this by sending error data via \'e-mail\'. </string>
+
+    <color name="black">#000000</color>
+
+</resources>

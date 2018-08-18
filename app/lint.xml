@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi" severity="ignore">
+        <ignore path="src/in/neonex/trawell/activity/DestinationActivity.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/in/neonex/trawell/activity/DestinationActivity.java" />
+    </issue>
+    <issue id="SimpleDateFormat" severity="ignore" />
+</lint>
